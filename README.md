@@ -1,1 +1,1 @@
-# Netflix-App
+# CloneNetflxReactNative
